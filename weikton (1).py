@@ -19,9 +19,9 @@ from aiogram.utils.keyboard import ReplyKeyboardBuilder
 from aiogram.enums import ChatMemberStatus
 
 # ==================== НАСТРОЙКИ ====================
-TOKEN = "token moy"
+TOKEN = "1780243674:hhORgOx8R4jXmDq6Wdg_h_IlIUiWR14m5ZL"
 # Админы бота по username (без @, регистр не важен)
-GLOBAL_ADMIN_USERNAMES = ["your_username"]
+GLOBAL_ADMIN_USERNAMES = ["weikton"]
 BOT_NAME = "WEIKTON HELP BOT"
 VERSION = "7.0.0 BUTTONS"
 DB_NAME = "freeze_zomelezz.db"
